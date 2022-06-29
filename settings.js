@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['089522183114']
-global.premium = ['089522183114']
-global.ownernomer = '089522183114'
+global.owner = ['6289522183114']
+global.premium = ['6289522183114']
+global.ownernomer = '6289522183114'
 global.ownername = '🐦ROHMAN'
 global.botname = 'MIA_CANS'
 global.footer = '©ROHMANNwInc.'
